@@ -18,7 +18,7 @@ public class java_quick_math {
             System.out.println("Thanks for playing along!");
 
         }else if(userChoice == 2){
-            System.out.println("You chose 1, Enter a number ");
+            System.out.println("You chose 2, Enter a number ");
             int firstNum = myScan.nextInt();
             System.out.println("Enter another number ");
             int secondNum = myScan.nextInt();
